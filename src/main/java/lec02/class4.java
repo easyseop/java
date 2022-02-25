@@ -33,7 +33,7 @@ public class class4 {
         bVar = (byte)iVar;
         System.out.println("bVar = "+bVar);
 
-
+        System.out.println("수정 test!");
 
 
         
