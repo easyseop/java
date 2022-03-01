@@ -23,13 +23,10 @@ public class BOJ_1110 {
             }
 
             cnt+=1;
-            if(a*10+b == Integer.parseInt(str)){
+            if(a*10+b == Integer.parseInt(str)) {
                 System.out.print(cnt);
                 break;
             }
-
-
-
         }
     }
 }
