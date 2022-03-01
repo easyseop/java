@@ -28,7 +28,7 @@ public class BOJ_1110 {
                 break;
             }
 
-            System.out.println("hello");
+
 
         }
     }
