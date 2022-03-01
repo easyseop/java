@@ -15,5 +15,6 @@ public class BOJ_1330 {
         }else{
             System.out.println("==");
         }
+
     }
 }
