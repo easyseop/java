@@ -11,10 +11,7 @@ public class project1 {
         a = sc.nextInt();
         b = sc.nextInt();
         c = sc.nextInt();
-        System.out.print(c);
-        System.out.print(' ');
-        System.out.print(b);
-        System.out.print(' ');
-        System.out.print(a);
+        System.out.print(c+" "+b+" "+a);
+
     }
 }
