@@ -12,6 +12,7 @@ public class BOJ_2439 {
             String star  = "*".repeat(i);
             String blank = " ".repeat(n-i);
             System.out.println(blank+star);
+
         }
 
 
