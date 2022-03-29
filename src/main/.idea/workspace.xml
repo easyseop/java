@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f75811e-2388-4e9e-950d-f82298a273d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java/CP/project2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/CP/project1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/CP/project2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/이지섭_2017112513_0317.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/CP.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/CP/project2.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +50,11 @@
   </component>
   <component name="RunManager">
     <configuration name="project2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CP.project2" />
+      <option name="MAIN_CLASS_NAME" value="이지섭_2017112513_0317.project2" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CP.*" />
+          <option name="PATTERN" value="이지섭_2017112513_0317.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,6 +79,7 @@
       <workItem from="1645780739154" duration="67000" />
       <workItem from="1645796131807" duration="1000" />
       <workItem from="1647478626528" duration="4721000" />
+      <workItem from="1648083843982" duration="1525000" />
     </task>
     <servers />
   </component>
