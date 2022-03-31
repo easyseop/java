@@ -1,10 +1,10 @@
-package 이지섭_2017112513_0317;
+package lec02;
 
 import java.util.Scanner;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class project2 {
+public class dbdvm0324 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
