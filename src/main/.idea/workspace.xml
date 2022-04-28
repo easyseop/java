@@ -5,19 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f75811e-2388-4e9e-950d-f82298a273d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0331/dlgkrrl_wkfqhwk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0331/midterm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0331/midterm2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0331/wkfqhwk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0331/ㅇㅁㅈ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/이지섭_2017112513/이지섭_2017112513_중간고사.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0428/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0428/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/practice/dbdvm_0405.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/practice/dbdvm_0405.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0331/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0331/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/이지섭_2017112513_0331.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice/dbdvm_0405.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/practice/dbdvm_0405.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0331/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0331/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/이지섭_2017112513_0331.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0331/dlgkrrl_wkfqhwk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0331/midterm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0331/midterm2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0331/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0428/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0331/wkfqhwk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0331/ㅇㅁㅈ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0331/dlgkrrl_wkfqhwk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0331/midterm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0331/midterm2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0331/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0331/wkfqhwk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0331/ㅇㅁㅈ.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,13 +67,26 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.이지섭_2017112513_중간고사">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ㅇㅁㅈ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.이지섭_2017112513_0331.ㅇㅁㅈ" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="이지섭_2017112513.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.이지섭_2017112513_0428.Main" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.이지섭_2017112513_0428.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,26 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="wkfqhwk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.이지섭_2017112513_0331.wkfqhwk" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="이지섭_2017112513.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.이지섭_2017112513_중간고사" />
         <item itemvalue="Application.dbdvm_0405" />
         <item itemvalue="Application.ㅇㅁㅈ" />
         <item itemvalue="Application.dlgkrrl_wkfqhwk" />
-        <item itemvalue="Application.wkfqhwk" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +170,7 @@
       <workItem from="1650506077012" duration="182000" />
       <workItem from="1650507222201" duration="20000" />
       <workItem from="1650521171518" duration="3939000" />
+      <workItem from="1651107815042" duration="2190000" />
     </task>
     <servers />
   </component>
