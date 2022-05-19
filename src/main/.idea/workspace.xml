@@ -5,19 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f75811e-2388-4e9e-950d-f82298a273d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java/lec02/FirstChildClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/lec02/Main_par.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/lec02/ParentClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/lec02/SecondChildClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0428/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/이지섭_2017112513/GasStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/이지섭_2017112513/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/이지섭_2017112513/homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/이지섭_2017112513/person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0519/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0519/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0519/Main_animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/이지섭_2017112513/이지섭_2017112513_중간고사.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0428/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0428/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/이지섭_2017112513/이지섭_2017112513_중간고사.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/lec02/ParentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/lec02/ParentClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/practice/dawd.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/practice/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0428/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0519/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0428/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0428/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0519/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/이지섭_2017112513/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/이지섭_2017112513/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/이지섭_2017112513/person.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/이지섭_2017112513/person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/practice/dawd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0428/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0428/Example.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0428/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0428/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/이지섭_2017112513/Kit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/이지섭_2017112513/Kit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/이지섭_2017112513/person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/이지섭_2017112513/person.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +49,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/java/이지섭_2017112513/Main.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/java/practice/이지섭_2017112513_0428/test.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/java/practice/이지섭_2017112513_0519/test.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -71,13 +76,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="practice.이지섭_2017112513_0519" />
       <recent name="이지섭_2017112513" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lec02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main_par">
+  <component name="RunManager" selected="Application.Main_animal">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="이지섭_2017112513.Main" />
       <module name="main" />
@@ -92,11 +98,24 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.이지섭_2017112513_0428.Main" />
+      <option name="MAIN_CLASS_NAME" value="practice.이지섭_2017112513_0519.Main" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.이지섭_2017112513_0428.*" />
+          <option name="PATTERN" value="practice.이지섭_2017112513_0519.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainColor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.이지섭_2017112513_0428.MainColor" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.이지섭_2017112513_0519.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,6 +129,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="이지섭_2017112513.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.이지섭_2017112513_0519.Main_animal" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.이지섭_2017112513_0519.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,39 +162,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dbdvm_0405" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.dbdvm_0405" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.이지섭_2017112513_0428.test" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.이지섭_2017112513_0428.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main_animal" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainColor" />
         <item itemvalue="Application.Main_par" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.dbdvm_0405" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +205,8 @@
       <workItem from="1652144843492" duration="3842000" />
       <workItem from="1652189367232" duration="2144000" />
       <workItem from="1652610394046" duration="4256000" />
+      <workItem from="1652748710862" duration="5245000" />
+      <workItem from="1652922385253" duration="1903000" />
     </task>
     <servers />
   </component>

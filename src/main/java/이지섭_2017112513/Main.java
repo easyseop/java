@@ -11,12 +11,12 @@ class Kit {
         this.release = release;
     }
 
-    void set_release(String result){
+    public void set_release(String result){
         release = result;
     }
 
 
-    void set_state(String result){
+    public void set_state(String result){
         state =result;
     }
     public boolean isolation(){
