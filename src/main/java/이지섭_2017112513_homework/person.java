@@ -1,4 +1,4 @@
-package 이지섭_2017112513;
+package 이지섭_2017112513_homework;
 
 public class person {
 
