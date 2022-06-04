@@ -5,10 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f75811e-2388-4e9e-950d-f82298a273d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0519/t_0531.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0602/AI_TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0602/ArrList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0602/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0602/PracMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0602/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0602/TV.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/practice/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice/Quiz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/practice/Quiz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/practice/Quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/practice/Quiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/practice/prob6_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/practice/prob6_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0407.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0428.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0519/이지섭_2017112513_0519.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/practice/prob6_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/practice/prob6_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0407.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0428.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0519/t_0531.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0519/t_0531.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0519/이지섭_2017112513_0519.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,39 +82,13 @@
       <recent name="lec02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.t_0531">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.Main" />
+  <component name="RunManager" selected="Application.PracMain">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.이지섭_2017112513_0602.Main" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="이지섭_2017112513_homework.Main" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.이지섭_2017112513_0519.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.이지섭_2017112513_0519.Main" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.이지섭_2017112513_0519.*" />
+          <option name="PATTERN" value="practice.이지섭_2017112513_0602.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.이지섭_2017112513_0519.Main_animal" />
+    <configuration name="Main_0602" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.이지섭_2017112513_0519.Main_0602" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
@@ -135,8 +122,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.Quiz" />
+    <configuration name="PracMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.이지섭_2017112513_0602.PracMain" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.이지섭_2017112513_0602.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prob6_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.prob6_7" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
@@ -163,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PracMain" />
+        <item itemvalue="Application.prob6_7" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main_0602" />
         <item itemvalue="Application.t_0531" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Quiz" />
-        <item itemvalue="Application.Main_animal" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +210,8 @@
       <workItem from="1653357698546" duration="827000" />
       <workItem from="1653527258575" duration="3351000" />
       <workItem from="1653959146140" duration="4648000" />
+      <workItem from="1654238458151" duration="2724000" />
+      <workItem from="1654241196621" duration="9589000" />
     </task>
     <servers />
   </component>
@@ -226,5 +228,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
