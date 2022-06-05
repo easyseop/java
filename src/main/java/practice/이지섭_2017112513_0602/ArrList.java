@@ -7,7 +7,6 @@ public class ArrList<E>{
     private int size;
     private int index;
 
-
     ArrList(){
         a = (E[]) new Object[50];
         size = 0;

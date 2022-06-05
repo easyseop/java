@@ -5,23 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f75811e-2388-4e9e-950d-f82298a273d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0602/AI_TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0602/ArrList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0602/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0602/PracMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0602/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0602/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/lec02/list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_기말고사대비/final_2021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/practice/이지섭_기말고사대비/ttest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/practice/Quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/practice/Quiz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/practice/prob6_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/practice/prob6_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0407.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0428.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0519/이지섭_2017112513_0519.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice/prob6_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/practice/prob6_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0407.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0428.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0519/t_0531.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0519/t_0531.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0519/이지섭_2017112513_0519.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0602/ArrList.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0602/ArrList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0602/Main_final.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0602/Main_final.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0602/AI_TV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0602/AI_TV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0602/ArrList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0602/ArrList.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -82,39 +76,13 @@
       <recent name="lec02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PracMain">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.이지섭_2017112513_0602.Main" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.이지섭_2017112513_0602.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ttest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="이지섭_2017112513.Main" />
+      <option name="MAIN_CLASS_NAME" value="lec02.Main" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="이지섭_2017112513.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_0602" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.이지섭_2017112513_0519.Main_0602" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.이지섭_2017112513_0519.*" />
+          <option name="PATTERN" value="lec02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prob6_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.prob6_7" />
+    <configuration name="final_2021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.이지섭_기말고사대비.final_2021" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="practice.이지섭_기말고사대비.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +116,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="t_0531" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.이지섭_2017112513_0519.t_0531" />
+    <configuration name="list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lec02.list" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.이지섭_2017112513_0519.*" />
+          <option name="PATTERN" value="lec02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ttest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.이지섭_기말고사대비.ttest" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.이지섭_기말고사대비.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ttest" />
+        <item itemvalue="Application.final_2021" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.list" />
         <item itemvalue="Application.PracMain" />
-        <item itemvalue="Application.prob6_7" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main_0602" />
-        <item itemvalue="Application.t_0531" />
       </list>
     </recent_temporary>
   </component>
@@ -212,6 +193,8 @@
       <workItem from="1653959146140" duration="4648000" />
       <workItem from="1654238458151" duration="2724000" />
       <workItem from="1654241196621" duration="9589000" />
+      <workItem from="1654347603094" duration="12048000" />
+      <workItem from="1654414986419" duration="825000" />
     </task>
     <servers />
   </component>

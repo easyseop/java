@@ -1,93 +1,93 @@
-//1¹ø
-class Practice {
-	void random3(int n) {
-		for(int i=0; i<n; i++) {
-		 System.out.print( (int)(Math.random()*33+1)*3 + " " ); 
-		}
-		System.out.println();
-	}
-	
-	static void div10(int n) {
-		System.out.println(n%10);
-	}
-	
-	void last_word(String s) {
-		String[] srr = s.split(" ");
-		System.out.println(srr[srr.length-1]);
-	}
-	
-	void max_no(int val) {
-		Integer VAL = val;
-		String s = VAL.toString();	
-		//System.out.println(s);
-		char temp;
-		char max='0';
-		for(int i=0; i<s.length(); i++) {
-			temp = s.charAt(i);
-			if(temp>max) {
-				max = temp;
-			}
-		}
-		System.out.println(max);
-	}
-	
-}
-//2¹ø
-class TV {
-	private int channel;  // ÇöÀç Ã¤³Î¹øÈ£
-	TV(int ch){
-		channel = ch;
-	}
-	int get_channel() {
-		return channel;
-	}
-}
-//3¹ø
-class AI_TV extends TV {
-	private String name;
-	AI_TV(String n, int ch){
-		super(ch);
-		name = n;
-	}
-	void command(String n) {
-		if(n.equals(name)) {
-			System.out.println("ÁÖÀÎ´Ô! ÇöÀç Ã¤³ÎÀº "+get_channel()+"¹ø");
-		} else {
-			System.out.println("ÁÖÀÎ´Ô! Àú´Â "+n+"°¡ ¾Æ´Ï¿¹¿ä.");
-		}		
-	}
-}
-
-
-public class Main {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		// 1¹ø
-		Practice ex = new Practice();
-		ex.random3(7);
-		
-		Practice.div10(2973);
-		
-		System.out.println( lower('H'));
-		
-		ex.last_word("What's your name?");
-		ex.last_word("I am a boy");
-		
-		ex.max_no(18670725);		//8
-		ex.max_no(20030615);		//6
-		
-		//2¹ø
-		TV lg = new TV(7);
-		System.out.println("ÇöÀçÃ¤³ÎÀº "+lg.get_channel()+"¹ø");
-		//3¹ø
-		AI_TV siri = new AI_TV("½Ã¸®¾ß", 7);
-		siri.command("½Ã¸®¾ß");
-		siri.command("´©±¸");
-	}
-	
-	static char lower(char c) {
-		return (char)(c+'a'-'A');
-	}
-	
-}
+////1ï¿½ï¿½
+//class Practice {
+//	void random3(int n) {
+//		for(int i=0; i<n; i++) {
+//		 System.out.print( (int)(Math.random()*33+1)*3 + " " );
+//		}
+//		System.out.println();
+//	}
+//
+//	static void div10(int n) {
+//		System.out.println(n%10);
+//	}
+//
+//	void last_word(String s) {
+//		String[] srr = s.split(" ");
+//		System.out.println(srr[srr.length-1]);
+//	}
+//
+//	void max_no(int val) {
+//		Integer VAL = val;
+//		String s = VAL.toString();
+//		//System.out.println(s);
+//		char temp;
+//		char max='0';
+//		for(int i=0; i<s.length(); i++) {
+//			temp = s.charAt(i);
+//			if(temp>max) {
+//				max = temp;
+//			}
+//		}
+//		System.out.println(max);
+//	}
+//
+//}
+////2ï¿½ï¿½
+//class TV {
+//	private int channel;  // ï¿½ï¿½ï¿½ï¿½ Ã¤ï¿½Î¹ï¿½È£
+//	TV(int ch){
+//		channel = ch;
+//	}
+//	int get_channel() {
+//		return channel;
+//	}
+//}
+////3ï¿½ï¿½
+//class AI_TV extends TV {
+//	private String name;
+//	AI_TV(String n, int ch){
+//		super(ch);
+//		name = n;
+//	}
+//	void command(String n) {
+//		if(n.equals(name)) {
+//			System.out.println("ï¿½ï¿½ï¿½Î´ï¿½! ï¿½ï¿½ï¿½ï¿½ Ã¤ï¿½ï¿½ï¿½ï¿½ "+get_channel()+"ï¿½ï¿½");
+//		} else {
+//			System.out.println("ï¿½ï¿½ï¿½Î´ï¿½! ï¿½ï¿½ï¿½ï¿½ "+n+"ï¿½ï¿½ ï¿½Æ´Ï¿ï¿½ï¿½ï¿½.");
+//		}
+//	}
+//}
+//
+//
+//public class Main {
+//
+//	public static void main(String[] args) {
+//		// TODO Auto-generated method stub
+//		// 1ï¿½ï¿½
+//		Practice ex = new Practice();
+//		ex.random3(7);
+//
+//		Practice.div10(2973);
+//
+//		System.out.println( lower('H'));
+//
+//		ex.last_word("What's your name?");
+//		ex.last_word("I am a boy");
+//
+//		ex.max_no(18670725);		//8
+//		ex.max_no(20030615);		//6
+//
+//		//2ï¿½ï¿½
+//		TV lg = new TV(7);
+//		System.out.println("ï¿½ï¿½ï¿½ï¿½Ã¤ï¿½ï¿½ï¿½ï¿½ "+lg.get_channel()+"ï¿½ï¿½");
+//		//3ï¿½ï¿½
+//		AI_TV siri = new AI_TV("ï¿½Ã¸ï¿½ï¿½ï¿½", 7);
+//		siri.command("ï¿½Ã¸ï¿½ï¿½ï¿½");
+//		siri.command("ï¿½ï¿½ï¿½ï¿½");
+//	}
+//
+//	static char lower(char c) {
+//		return (char)(c+'a'-'A');
+//	}
+//
+//}
