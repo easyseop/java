@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f75811e-2388-4e9e-950d-f82298a273d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/fffinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/fffinal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/기말고사_메세지파싱_컬렉션/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/이지섭_2017112513/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0602/ArrList.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/practice/이지섭_2017112513_0602/ArrList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/이지섭_2017112513.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/BOJ/BOJ_1764.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/BOJ/BOJ_1764.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0602/ArrList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/practice/이지섭_2017112513_0602/ArrList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/이지섭_2017112513.zip" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/이지섭_2017112513.zip" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,26 +77,33 @@
       <recent name="lec02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_1764">
-    <configuration name="BOJ_1764" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.BOJ_1764" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="기말고사_메세지파싱_컬렉션.Main" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BOJ.*" />
+          <option name="PATTERN" value="기말고사_메세지파싱_컬렉션.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lec02.Main" />
+      <option name="MAIN_CLASS_NAME" value="이지섭_2017112513.Main" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lec02.*" />
+          <option name="PATTERN" value="이지섭_2017112513.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,52 +111,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="final_2021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.이지섭_기말고사대비.final_2021" />
+    <configuration name="fffinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fffinal" />
       <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.이지섭_기말고사대비.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lec02.list" />
+    <configuration name="fffinal2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fffinal2" />
       <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lec02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ttest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.이지섭_기말고사대비.ttest" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.이지섭_기말고사대비.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ_1764" />
-        <item itemvalue="Application.ttest" />
-        <item itemvalue="Application.final_2021" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.list" />
+        <item itemvalue="Application.fffinal2" />
+        <item itemvalue="Application.fffinal" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -187,6 +179,13 @@
       <workItem from="1654347603094" duration="12048000" />
       <workItem from="1654414986419" duration="1420000" />
       <workItem from="1654506537462" duration="3519000" />
+      <workItem from="1654696116711" duration="9670000" />
+      <workItem from="1654730978636" duration="3550000" />
+      <workItem from="1654735251881" duration="3210000" />
+      <workItem from="1654738528512" duration="220000" />
+      <workItem from="1654738767987" duration="105000" />
+      <workItem from="1654738957608" duration="285000" />
+      <workItem from="1654740817956" duration="322000" />
     </task>
     <servers />
   </component>

@@ -2,7 +2,6 @@ package practice.이지섭_2017112513_0602;
 
 public class ArrList<E>{
 
-
     private E[] a;
     private int size;
     private int index;
