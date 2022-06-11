@@ -3,7 +3,6 @@ import java.util.Collections;
 import java.util.Scanner;
 
 
-
 //중복 없을 떄
 public class Main {
     public static void main(String[] args) {
